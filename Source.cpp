@@ -4,6 +4,7 @@ using namespace std;
 class Test
 {
 public:
+	void printA()
 	{
 		cout << a << endl;
 	}
